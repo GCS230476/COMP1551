@@ -1,0 +1,16 @@
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\bin\Debug\net9.0-windows\Prototype 5.exe
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\bin\Debug\net9.0-windows\Prototype 5.deps.json
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\bin\Debug\net9.0-windows\Prototype 5.runtimeconfig.json
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\bin\Debug\net9.0-windows\Prototype 5.dll
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\bin\Debug\net9.0-windows\Prototype 5.pdb
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype_5.Form1.resources
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.dll
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\refint\Prototype 5.dll
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.pdb
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\Prototype 5.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Bài của Khang\Prototype 5\obj\Debug\net9.0-windows\ref\Prototype 5.dll
